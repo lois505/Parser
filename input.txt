@@ -1,0 +1,3 @@
+val := 10;
+temp := val * (3 + 2);
+output := temp - (val / 2)
